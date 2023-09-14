@@ -37,7 +37,7 @@
 	box-sizing: border-box !important;
 }
 body {
-	color: #666666;
+	color: #111E41;
 	font-size: 14px;
 	font-family: 'poppins', sans-serif;
 	line-height: 1.80857;
@@ -240,13 +240,13 @@ button {
 	font-weight: 600;
 }
 .main_bt {
-	background: #0F203C;
+	background: #111E41;
 	color: #fff;
 	padding: 10px 60px 10px 60px;
 	float: left;
 	font-size: 15px;
 	font-weight: 400;
-	border: solid #0F203C 5px;
+	border: solid #111E41 5px;
 	border-radius: 0;
 	margin-right: 30px;
 }
@@ -1612,7 +1612,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding-bottom: 0px;
 }
 .experts .experts-box {
-	background-color: #0F203C;
+	background-color: #111E41;
 }
 .experts .experts-box {
 	padding-top: 50px;
